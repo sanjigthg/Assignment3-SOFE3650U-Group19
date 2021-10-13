@@ -1,2 +1,7 @@
-# Assignment3-SOFE3650U-Group19
-Assignment #3 - Architecture Patterns and Styles
+# SOFE3650U - Assignment #3 - Course Group 19
+
+## Contributors
+* Mason Koitsan 
+* Jathavan Anton-Geetharaj
+* Dillon Dudley
+* Sanjigth Gnanabaskaran
