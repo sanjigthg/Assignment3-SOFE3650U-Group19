@@ -20,4 +20,4 @@
 
 ## Advantages/Disadvantages of Approaches - Excerise #4
 
-[Exercise #4](/)
+[Exercise #4](https://github.com/sanjigth/Assignment3-SOFE3650U-Group19/tree/main/Exercise%20%234%20-%20Advantages%20and%20Disadvantages)
